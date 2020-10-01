@@ -24,35 +24,35 @@ int main(){
          cout << "TIE" << endl;
          }
     else if(choice ==1 && ai== 2){
-         cout << "Rock is covered by Paper the computer wins!." << endl;
+         cout << "COMPUTER WINS!." << endl;
 
          }
     else if(choice == 1 && ai == 3){
-         cout << "Rock crushes Scissors you win!" << endl;
+         cout << "YOU WINS!" << endl;
     
          }
     else if(choice == 2 && ai == 1){
-         cout << "Paper covers Rock you win!" << endl;
+         cout << "YOU WINS!" << endl;
         
          }
     else if(choice == 2 && ai == 2){
-         cout << "Paper meets Paper its a tie!" << endl;
+         cout << "TIE!" << endl;
   
          }
     else if(choice == 2 && ai == 3){
-         cout << "Paper is cut by Scissors the computer wins!" << endl;
+         cout << "COMPUTER WINS!" << endl;
        
          }
     else if( choice == 3 && ai == 1){
-         cout << "Scissors are crushed by Rock computer wins!" << endl;
+         cout << "COMPUTER WINS!" << endl;
        
          }
     else if( choice == 3 && ai == 2){
-         cout << "Scissors cuts Paper you win!" << endl;
+         cout << "YOU WIN!" << endl;
         
          }
     else if(choice == 3 && ai == 3){
-         cout << "Scissors meet Scissors its a tie!" << endl;
+         cout << "TIE!" << endl;
        
          }
     else{
