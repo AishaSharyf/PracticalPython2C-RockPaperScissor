@@ -21,7 +21,7 @@ int main(){
     int ai = rand() % 3 + 1;
     cout <<  "The computer chose: " << ai << endl;
     if(choice == 1 && ai == 1){
-         cout << "TIE" << endl;
+         cout << "TIE!" << endl;
          }
     else if(choice ==1 && ai== 2){
          cout << "COMPUTER WINS!." << endl;
