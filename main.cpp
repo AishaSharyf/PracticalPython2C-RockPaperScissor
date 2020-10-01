@@ -24,15 +24,15 @@ int main(){
          cout << "TIE!" << endl;
          }
     else if(choice ==1 && ai== 2){
-         cout << "COMPUTER WINS!." << endl;
+         cout << "COMPUTER WIN!." << endl;
 
          }
     else if(choice == 1 && ai == 3){
-         cout << "YOU WINS!" << endl;
+         cout << "YOU WIN!" << endl;
     
          }
     else if(choice == 2 && ai == 1){
-         cout << "YOU WINS!" << endl;
+         cout << "YOU WIN!" << endl;
         
          }
     else if(choice == 2 && ai == 2){
@@ -40,11 +40,11 @@ int main(){
   
          }
     else if(choice == 2 && ai == 3){
-         cout << "COMPUTER WINS!" << endl;
+         cout << "COMPUTER WIN!" << endl;
        
          }
     else if( choice == 3 && ai == 1){
-         cout << "COMPUTER WINS!" << endl;
+         cout << "COMPUTER WIN!" << endl;
        
          }
     else if( choice == 3 && ai == 2){
